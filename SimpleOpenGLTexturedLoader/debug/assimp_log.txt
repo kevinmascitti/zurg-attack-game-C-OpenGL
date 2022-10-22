@@ -1,0 +1,13 @@
+Info,  T5548: Load ./models/ZurgAttack.obj
+Info,  T5548: Found a matching importer for this file format
+Info,  T5548: Import root directory is './models\'
+Error, T5548: OBJ/MTL: Encountered unknown texture type
+Skipping one or more lines with the same contents
+Error, T5548: OBJ/MTL: Unexpected illumination model (0-2 recognized)
+Info,  T5548: Entering post processing pipeline
+Info,  T5548: RemoveRedundantMatsProcess finished. 1 redundant and 1 unused materials
+Info,  T5548: TriangulateProcess finished. All polygons have been triangulated.
+Info,  T5548: Points: 0, Lines: 0, Triangles: 24, Polygons: 0 (Meshes, X = removed)
+Info,  T5548: JoinVerticesProcess finished | Verts in: 283567 out: 93734 | ~66.9%
+Info,  T5548: Cache relevant are 24 meshes (99747 faces). Average output ACMR is 1.073346
+Info,  T5548: Leaving post processing pipeline

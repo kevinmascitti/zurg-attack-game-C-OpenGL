@@ -1,0 +1,59 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Sound.cpp
+  SimpleOpenGL_Loader.cpp
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiVector2D.h(75,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(122,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(131,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(140,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(148,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(160,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(160,23): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(161,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(161,23): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(162,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(162,21): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(163,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(163,21): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(164,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(164,22): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(165,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(165,22): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(198,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(198,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(199,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(199,23): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(217,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(246,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(247,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(248,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiQuaternion.h(249,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiVector3D.inl(82,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix3x3.inl(124,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix3x3.inl(125,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix3x3.inl(138,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix3x3.inl(138,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(269,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(270,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(271,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(272,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(273,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(274,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(327,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(328,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(342,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(343,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(356,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(357,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(365,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\AssImp\include\aiMatrix4x4.inl(365,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\SimpleOpenGLTexturedLoader\SimpleOpenGLTexturedLoader\SimpleOpenGL_Loader.cpp(1089,35): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\SimpleOpenGLTexturedLoader\SimpleOpenGLTexturedLoader\SimpleOpenGL_Loader.cpp(1093,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\SimpleOpenGLTexturedLoader\SimpleOpenGLTexturedLoader\SimpleOpenGL_Loader.cpp(1150,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\SimpleOpenGLTexturedLoader\SimpleOpenGLTexturedLoader\SimpleOpenGL_Loader.cpp(1155,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\SimpleOpenGLTexturedLoader\SimpleOpenGLTexturedLoader\SimpleOpenGL_Loader.cpp(2224,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\SimpleOpenGLTexturedLoader\SimpleOpenGLTexturedLoader\SimpleOpenGL_Loader.cpp(2230,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\SimpleOpenGLTexturedLoader\SimpleOpenGLTexturedLoader\SimpleOpenGL_Loader.cpp(2235,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\SimpleOpenGLTexturedLoader\SimpleOpenGLTexturedLoader\SimpleOpenGL_Loader.cpp(2246,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+SimpleOpenGL_Loader.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  SimpleOpenGLTexturedLoader.vcxproj -> C:\Users\kevinmascitti\Desktop\Consegna Progetto\GiocoOpenGL\SimpleOpenGLTexturedLoader\Debug\SimpleOpenGLTexturedLoader.exe

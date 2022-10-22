@@ -1,0 +1,2 @@
+Info,  T6168: Load C:\Users\federicomafrici\Desktop\Gioco_PostRevisione\4-09-22
+Error, T6168: Unable to open file "C:\Users\federicomafrici\Desktop\Gioco_PostRevisione\4-09-22".

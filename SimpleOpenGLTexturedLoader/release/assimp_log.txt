@@ -1,0 +1,17 @@
+Info,  T10412: Load models\suzanne.blend
+Info,  T10412: Found a matching importer for this file format
+Info,  T10412: Import root directory is 'models\'
+Info,  T10412: BLEND: Blender version is 2.59 (64bit: false, little endian: true)
+Warn,  T10412: BlendDNA: Did not find a field named `angle` in structure `Camera`
+Warn,  T10412: BlendDNA: Did not find a field named `mat_nr` in structure `MVert`
+Skipping one or more lines with the same contents
+Warn,  T10412: BlendDNA: Did not find a field named `ambir` in structure `Material`
+Warn,  T10412: BlendDNA: Did not find a field named `ambig` in structure `Material`
+Warn,  T10412: BlendDNA: Did not find a field named `ambib` in structure `Material`
+Info,  T10412: (Stats) Fields read: 13253, pointers resolved: 18, cache hits: 5, cached objects: 14
+Info,  T10412: Entering post processing pipeline
+Info,  T10412: TriangulateProcess finished. All polygons have been triangulated.
+Info,  T10412: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Info,  T10412: JoinVerticesProcess finished | Verts in: 1968 out: 920 | ~53.3%
+Info,  T10412: Cache relevant are 1 meshes (968 faces). Average output ACMR is 1.106405
+Info,  T10412: Leaving post processing pipeline

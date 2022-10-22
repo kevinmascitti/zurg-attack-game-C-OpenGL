@@ -1,0 +1,268 @@
+# Blender MTL File: 'FileApplicazioneGrafica.blend'
+# Material Count: 24
+
+newmtl Alettone_frontale.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.010261 0.800000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd AlettroneFrontale.png
+
+newmtl Coin
+Ns 485.475866
+Ka 0.800000 0.800000 0.800000
+Kd 1.000000 0.471997 0.018349
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd MetalCoinColor.png
+
+newmtl Color_Alettoni.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000000 0.013161
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd AlettoneRetro.png
+
+newmtl Colore_matita
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.054706 0.064847
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd PencilRedColor.png
+
+newmtl Colore_matita.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.056377 0.005828
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Pencil1GreenColor.png
+
+newmtl Cornice_finestrino.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.023151 0.023151 0.023151
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Corpo_Astronave.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd CorpoAstronave.png
+
+newmtl InternoReattore
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.027439 0.027439 0.027439
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd InternoReattore.png
+
+newmtl Legno_matita
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.491899 0.256591 0.154114
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd LegnomatitaVerde.png
+
+newmtl Legno_matita.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.491899 0.256591 0.154114
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Legnomatita.png
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/federicomafrici/Dropbox (Politecnico Di Torino Studenti)/Informatica grafica/IMG_BLENDER/PallaTexturecorretta.png
+
+newmtl Material.001
+Ns 727.496896
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/federicomafrici/Downloads/guess_box/textures/Material_baseColor.png
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd png-clipart-cartoon-cloud-animation-clouds-cartoon-blue-white.png
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/federicomafrici/Dropbox (Politecnico Di Torino Studenti)/Informatica grafica/IMG_BLENDER/WCgiusta.jpg
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 1.000000 0.010128
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 1.337486 0.040186
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd LaserColor.png
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000000 0.448259
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd AstronaveAlettone.png
+
+newmtl Material_41
+Ns 946.847226
+Ka 1.000000 1.000000 1.000000
+Kd 0.320617 0.001030 0.001030
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd HeartColor.png
+
+newmtl Reattore.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd EsternoReattore.001.png
+
+newmtl Retro_matita
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Retro_matita.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Vetrate.001
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl blinn1SG.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /Users/federicomafrici/Downloads/emperor_zurg/textures/blinn1SG_normal.png
+map_Kd /Users/federicomafrici/Downloads/emperor_zurg/textures/blinn1SG_baseColor.png
+map_Ke /Users/federicomafrici/Downloads/emperor_zurg/textures/blinn1SG_emissive.png
+
+newmtl initialShadingGroup.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /Users/federicomafrici/Downloads/emperor_zurg/textures/initialShadingGroup_normal.png
+map_Kd /Users/federicomafrici/Downloads/emperor_zurg/textures/initialShadingGroup_baseColor.png
+map_Ke /Users/federicomafrici/Downloads/emperor_zurg/textures/initialShadingGroup_emissive.png
+map_d /Users/federicomafrici/Downloads/emperor_zurg/textures/initialShadingGroup_baseColor.png
+
+newmtl lambert2SG.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/federicomafrici/Downloads/emperor_zurg/textures/lambert2SG_baseColor.png
