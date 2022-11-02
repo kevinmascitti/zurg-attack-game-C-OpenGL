@@ -1,6 +1,6 @@
 # Zurg attack!
 
-## 3D Game programmed in C with OpenGL.
+## 3D Game programmed in C and C++ with OpenGL API.
 
 All the models are done in Blender and imported in the game with the Assimp library.
 
